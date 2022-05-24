@@ -155,43 +155,6 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
 
 
-## 二十、交流群与社交联系
-
-python全栈二群：428335755
-
-数学建模基地群：834536032
-
-C/C++交流群：474372221
-
-SQL数据结构群：696774324
-
-个人微信：hxgsrubxjogxeeag  （如有违权可联系我删除）
-
-个人公众号：玩转大数据
-
-个人知乎：川川菜鸟
-
-个人b站有一些基础教程：[b站](https://space.bilibili.com/591228087)
-
-个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
-
-## 二十一、谷歌插件
-
-一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
-
-## 二十二、白嫖
-全网付费视频高清播放：https://www.ysgc.tv/
-
-在线编辑word文档，便捷效率，还可以多人协作：https://docs.google.com/
-
-免费白嫖全球的书籍，数字图书馆：https://zh.de1lib.org/ 下载好后需要使用上面分享的万能文档转换转换
-
-## 二十三、赞助
-
-你的赞助是我继续分享的动力：
-
-![image](https://user-images.githubusercontent.com/62045791/161431674-2f9689cc-e404-41f7-b355-10f3d134389e.png)
-
 
 
 
